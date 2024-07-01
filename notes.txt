@@ -1,0 +1,7 @@
+DOM is document object model used to manipulate content, style and structure it is very unique for javaScript
+
+DOM manipulation can be done using 
+1. getelementbyId or getelementbyClassname
+
+queryselector selects the first item in html for exampe if there is multiple ids with value "name" it will select the first one  
+const firstName = document.querySelector('#name'); # for id || . for class || tag for div,p
